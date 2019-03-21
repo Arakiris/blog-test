@@ -27,4 +27,4 @@ mix.js('resources/assets/js/app.js', 'public/js')
       'resources/assets/js/libs/metisMenu.js',
       'resources/assets/js/libs/sb-admin-2.js',
       'resources/assets/js/libs/scripts.js'
-   ], 'resources/assets/js/public/hs/libs.js');
+   ], 'public/js/libs.js');
